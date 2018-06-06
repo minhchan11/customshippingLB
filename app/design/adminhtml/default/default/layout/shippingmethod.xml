@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <shippingmethod_adminhtml_shippingmethod_index>
+        <reference name="content">
+            <block type="shippingmethod/adminhtml_shippingmethod" name="shippingmethod" />
+        </reference>
+    </shippingmethod_adminhtml_shippingmethod_index>
+</layout>
